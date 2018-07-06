@@ -1,0 +1,2 @@
+# KioskMode
+Kiosk Mode Testing
